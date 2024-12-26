@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Alexander, an I am a computer science graduate student at New Jersery Institute of technology in Newark New Jersey. 
+I have interests in all things Python & Data Science!
+
+- 🔭 I’m currently working on my master's project at NJIT.
+- - 🌱 I’m currently learning advanced Machine Learning concepts
+
+
 <!--
 **Alexs2256/Alexs2256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
