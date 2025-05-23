@@ -1,23 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Alexander, an I am a computer science graduate student at New Jersery Institute of technology in Newark New Jersey. 
-I have interests in all things Python & Data Science!
+My name is Alexander Stavrou, and I'm a results-oriented Computer Science Master's student at the New Jersey Institute of Technology[cite: 13, 22]. I'm passionate about leveraging technical skills to develop intelligent and secure software solutions, with strong interests in Python, Machine Learning, and Cybersecurity[cite: 13, 16].
 
-- 🔭 I’m currently working on my master's project at NJIT.
-- - 🌱 I’m currently learning advanced Machine Learning concepts
+## About Me
 
+* **Master's Student:** Currently pursuing a Master of Science in Computer Science (M.S.) at NJIT, with an anticipated graduation in December 2025[cite: 22].
+* **GPA:** 3.56/4.0[cite: 22].
+* **Skills:**
+    * **Languages:** Python, Java, C, JavaScript, HTML/CSS[cite: 16].
+    * **Machine Learning/AI:** Supervised/Unsupervised Learning, Model Evaluation, Hyperparameter Tuning, Data Mining, Algorithm Design & Analysis[cite: 16].
+    * **Deep Learning:** Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks[cite: 16].
+    * **Cybersecurity:** GNU Debugger (GDB), Ethical Hacking, Buffer Overflow Exploitation & Mitigation, x86 Assembly, Windows, Linux[cite: 16].
+    * **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, Django[cite: 16].
+    * **Databases:** MySQL, MongoDB, Neo4j[cite: 16].
 
-<!--
-**Alexs2256/Alexs2256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience & Projects
 
-Here are some ideas to get you started:
+* **Web Development Intern at Bohopink (May 2024 - August 2024)** [cite: 14]
+    * Fixed 50+ bugs and implemented numerous enhancements to improve user experience[cite: 14].
+    * Enhanced search engine performance by debugging algorithmic issues, increasing traffic by 15%[cite: 15].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Deep Learning with MLP: Custom Training and Evaluation**
+    * Built and trained a Multilayer Perceptron in Python to predict crime categories from a Washington D.C. crime dataset[cite: 17].
+    * Achieved 97% training accuracy & an average cross-validation score of 97.7% by using L2 regularization, early stopping, and hyperparameter tuning[cite: 17].
+    * [GitHub Link](https://github.com/Alexs2256/Deep-Learning-with-MLP) (Assuming this is the correct link based on your resume's general format)
+
+* **Apriori Algorithm for Association Rule Mining**
+    * Implemented the Apriori algorithm from scratch in Python, focusing on modular design and efficient data processing for mining frequent itemsets and association rules[cite: 18].
+    * Optimized algorithm performance to achieve (2.3ms) execution time on transactional datasets through effective data structure selection and algorithmic refinements[cite: 19].
+    * [GitHub Link](https://github.com/Alexs2256/Apriori-Algorithm) (Assuming this is the correct link)
+
+* **Unsupervised Clustering of 3D Data**
+    * Engineered K-Means and Hierarchical Clustering algorithms from scratch in Python, employing an object-oriented design for modularity and reusability[cite: 20].
+    * Developed a structured system for processing 3D datasets, applying distinct algorithmic logic, and enabling comparative performance analysis using the Silhouette Coefficient[cite: 21].
+    * [GitHub Link](https://github.com/Alexs2256/Unsupervised-Clustering) (Assuming this is the correct link)
+
+## Currently...
+
+* 🔭 I’m currently a student at NJIT.
+* 🌱 I’m continuously learning advanced Machine Learning concepts and exploring new technologies in cybersecurity.
+
+## Connect with Me
+
+* LinkedIn: [Your LinkedIn Profile Link]
+* Email: stavroualex11@gmail.com [cite: 16]
