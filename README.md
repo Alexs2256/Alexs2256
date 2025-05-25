@@ -42,5 +42,5 @@ My name is Alexander Stavrou, and I'm a results-oriented Computer Science Master
 
 ## Connect with Me
 
-* LinkedIn: [Your LinkedIn Profile Link]
-* Email: stavroualex11@gmail.com [cite: 16]
+* LinkedIn: [LinkedIn Profile:](https://www.linkedin.com/in/alexander-stavrou/)
+* Email: stavroualex11@gmail.com
