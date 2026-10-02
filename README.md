@@ -51,7 +51,7 @@ An end-to-end data engineering and AI application that continuously ingests weat
 * Implemented **L2 regularization, early stopping, cross-validation, and hyperparameter tuning**.
 * Achieved **97% training accuracy** and an average **97.7% cross-validation score**.
 
-🔗 [GitHub Repository](https://github.com/Alexs2256/Deep-Learning-with-MLP)
+🔗 [GitHub Repository](https://github.com/Alexs2256/DS-675-Milestone-4-Crime-Analysis-in-Washington-D.C.-A-Data-Driven-Approach)
 
 ---
 
